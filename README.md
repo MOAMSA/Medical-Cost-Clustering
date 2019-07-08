@@ -18,3 +18,4 @@ Health insurance which covers the whole or a part of the risk of a person incurr
   * Hierarchical clustering (Agglomerative)
     * Hierarchical : Charges - BMI
   * Future Work (K-Mode algorithm)
+  [View Jupyter NoteBook](https://github.com/MOAMSA/Medical-Cost-Clustering/blob/master/Clustering.ipynb)
