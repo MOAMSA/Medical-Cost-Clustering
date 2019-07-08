@@ -5,7 +5,6 @@ Health insurance which covers the whole or a part of the risk of a person incurr
 + Exploratory Data Analysis
   * Distribution of BMI, age and, charges
   * Distribution of gender, smoking, no. of children and residential area
-  * Definition of new columns
   * Distribution of age
   * Features relationship
   * Effects of BMI categories, age and, smoking on charges
