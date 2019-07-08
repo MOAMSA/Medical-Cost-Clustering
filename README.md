@@ -1,4 +1,4 @@
-# Clustering using Insurance Dataset (Medical Charge) 
+# Clustering using Insurance Dataset (Medical Charges) 
 Health insurance which covers the whole or a part of the risk of a person incurring medical expenses, spreading the risk over a large number of persons. We will apply Exploratory Data Analysis to be familiarized with the data. Then, we will implement K-Means and Hierarchical algorithms to divide the data point to some group with similar properties. The Table of content is as follow:
 + About the Insurance Dataset
 + Methodology
